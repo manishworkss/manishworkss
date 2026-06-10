@@ -27,7 +27,7 @@
 
 - 🔭 I’m currently focused on **Full-Stack Web Development**, **Backend Architecture**, and **AI/ML**.
 - 💼 Freelance Web Developer with experience delivering production apps (e.g., [mkrcollege.com](https://mkrcollege.com)).
-- 🎓 Pursuing a BCA at Parul University & Certified in Databases (NPTEL, IIT Kharagpur).
+- 🎓 Pursuing a BCA at Parul University & Certified in Databases/Java Programming/Computer Network (NPTEL, IIT Kharagpur).
 - 💡 Built Java desktop applications, stock trading simulators, and NLP chatbots.
 - 🎯 Current Goal: Engineering robust intelligent systems and contributing to open-source projects.
 - 📍 Based in Vadodara, Gujarat, India.
