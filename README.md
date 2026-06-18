@@ -1,15 +1,6 @@
 <div align="center">
 
-```
-███╗   ███╗ █████╗ ███╗   ██╗██╗███████╗██╗  ██╗
-████╗ ████║██╔══██╗████╗  ██║██║██╔════╝██║  ██║
-██╔████╔██║███████║██╔██╗ ██║██║███████╗███████║
-██║╚██╔╝██║██╔══██║██║╚██╗██║██║╚════██║██╔══██║
-██║ ╚═╝ ██║██║  ██║██║ ╚████║██║███████║██║  ██║
-╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝
-```
-
-**Software Engineer · Full Stack · Backend Systems**
+<img src="./assets/header.svg" width="100%" alt="Manish Kumar — Software Engineer" />
 
 [Portfolio](https://manish-portfolio-eosin.vercel.app/) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/manish-kumar-37349633a) &nbsp;·&nbsp; [LeetCode](https://leetcode.com/u/Manishkr92/) &nbsp;·&nbsp; [Email](mailto:bcawithmanish0008@gmail.com)
 

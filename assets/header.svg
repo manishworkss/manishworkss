@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="180" viewBox="0 0 860 180">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@700&amp;display=swap');
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="860" height="180" rx="0" fill="#000000"/>
+
+  <!-- Thin top accent line -->
+  <rect x="0" y="0" width="860" height="2" fill="#ffffff" opacity="0.08"/>
+
+  <!-- Name -->
+  <text
+    x="50"
+    y="90"
+    font-family="'Courier New', 'Lucida Console', monospace"
+    font-size="54"
+    font-weight="700"
+    fill="#ffffff"
+    letter-spacing="10"
+  >MANISH KUMAR</text>
+
+  <!-- Thin separator -->
+  <rect x="50" y="110" width="760" height="1" fill="#ffffff" opacity="0.12"/>
+
+  <!-- Subtitle row -->
+  <text
+    x="50"
+    y="145"
+    font-family="'Courier New', 'Lucida Console', monospace"
+    font-size="12"
+    fill="#888888"
+    letter-spacing="5"
+  >SOFTWARE ENGINEER  ·  FULL STACK  ·  BACKEND SYSTEMS</text>
+
+  <!-- Bottom thin line -->
+  <rect x="0" y="178" width="860" height="2" fill="#ffffff" opacity="0.08"/>
+</svg>
