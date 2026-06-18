@@ -1,6 +1,6 @@
 <div align="center">
 
-# Manish Kumar
+# MANISH KUMAR
 
 **Software Developer · Java · Full Stack Web**
 
