@@ -2,7 +2,7 @@
 
 # Manish Kumar
 
-### Java Developer &nbsp;·&nbsp; Web Developer
+**Software Developer · Java · Full Stack Web**
 *Building robust backend systems and production-grade web applications*
 
 [Portfolio](https://manish-portfolio-eosin.vercel.app/) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/manish-kumar-37349633a) &nbsp;·&nbsp; [LeetCode](https://leetcode.com/u/Manishkr92/) &nbsp;·&nbsp; [Email](mailto:bcawithmanish0008@gmail.com)
