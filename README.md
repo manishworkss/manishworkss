@@ -12,7 +12,7 @@
 
 Full Stack Engineer with hands-on production experience — from architecting RESTful APIs to deploying client-facing web platforms. Currently pursuing BCA at Parul University with NPTEL certifications in Databases, Java Programming, and Computer Networks (IIT Kharagpur).
 
-Freelance track record: built and shipped [`mkrcollege.com`](https://mkrcollege.com) — a live 12-page platform serving 300+ monthly visitors. Comfortable across Java backends, React frontends, ML pipelines, and everything in between.
+Freelance track record: built and shipped [`mkrcollege.com`](https://mkrcollege.com) — a live 12-page platform serving 3k+ monthly visitors. Comfortable across Java backends, React frontends, ML pipelines, and everything in between.
 
 ---
 
@@ -22,26 +22,25 @@ Freelance track record: built and shipped [`mkrcollege.com`](https://mkrcollege.
 |---|---|
 | **Languages** | Java · Python · JavaScript · SQL |
 | **Frontend** | React.js · HTML5 · CSS3 · Tailwind CSS |
-| **Backend** | Node.js · Express.js · FastAPI · Spring Boot |
-| **Databases** | MongoDB · MySQL · Supabase |
+| **Backend** | Node.js · Express.js · FastAPI · Spring Boot · RestAPI |
+| **Databases** | MongoDB · MySQL · Supabase · Firebase |
 | **ML & Data** | Pandas · NumPy · NLP · Scikit-learn |
 | **Tooling** | Git · Postman · Vercel · Linux |
 
 ---
 
 ## Projects
-
-**ERP System — Campus Resource Management**
-Engineered automated workflows handling data across 200+ students. Built on Node.js, Express, and MongoDB with role-based access and bulk data operations.
+**FutureForge AI**
+A full-stack AI-powered SaaS platform that takes a student's academic profile as input and outputs a personalized career domain + learning roadmap + AI mentor, all backed by a secure Spring Boot + MySQL backend and a modern React frontend.
 
 **M.K.R. College Platform** · [mkrcollege.com](https://mkrcollege.com)
-Production-grade 12-page website in React.js + Tailwind CSS. Currently serving 300+ monthly visitors.
+Production-grade 12-page website in React.js + Tailwind CSS. Currently serving 3k+ monthly visitors.
 
 **AlphaVoid — Strategic Traffic Solution**
 Route-analysis and traffic flow optimization tool. Prototyped under competitive hackathon constraints (PU Code Hackathon 3.0). Python-based engine with geospatial data parsing.
 
-**FutureForge AI**
-AI-powered platform integrating Gemini API for intelligent automation workflows. Fullstack implementation with real-time response streaming.
+**ERP System — Campus Resource Management**
+Engineered automated workflows handling data across 200+ students. Built on Node.js, Express, and MongoDB with role-based access and bulk data operations.
 
 **Advanced NLP Chatbot**
 Java-built conversational agent with contextual memory, intent classification, and multi-turn dialogue management.
