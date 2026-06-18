@@ -1,0 +1,167 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="1460" viewBox="0 0 860 1460">
+
+  <!-- ░░░ BACKGROUND ░░░ -->
+  <rect width="860" height="1460" fill="#000000"/>
+
+  <!-- ══════════════════════════════════════════
+       HEADER
+  ══════════════════════════════════════════ -->
+
+  <text x="50" y="72"
+    font-family="'Courier New', 'Lucida Console', monospace"
+    font-size="52" font-weight="700" fill="#ffffff" letter-spacing="10">MANISH KUMAR</text>
+
+  <rect x="50" y="90" width="760" height="1" fill="#222222"/>
+
+  <text x="50" y="118"
+    font-family="'Courier New', monospace"
+    font-size="12" fill="#666666" letter-spacing="5">SOFTWARE ENGINEER  ·  FULL STACK  ·  BACKEND SYSTEMS</text>
+
+  <text x="50" y="148"
+    font-family="'Courier New', monospace"
+    font-size="11" fill="#444444" letter-spacing="3">Portfolio  ·  LinkedIn  ·  LeetCode  ·  Email</text>
+
+  <rect x="50" y="168" width="760" height="1" fill="#111111"/>
+
+  <!-- ══════════════════════════════════════════
+       OVERVIEW
+  ══════════════════════════════════════════ -->
+
+  <text x="50" y="200"
+    font-family="'Courier New', monospace"
+    font-size="10" fill="#444444" letter-spacing="5">OVERVIEW</text>
+  <rect x="50" y="210" width="760" height="1" fill="#111111"/>
+
+  <text x="50" y="236" font-family="'Courier New', monospace" font-size="13" fill="#bbbbbb">Full Stack Engineer with hands-on production experience — from architecting RESTful</text>
+  <text x="50" y="256" font-family="'Courier New', monospace" font-size="13" fill="#bbbbbb">APIs to deploying client-facing web platforms. Currently pursuing BCA at Parul</text>
+  <text x="50" y="276" font-family="'Courier New', monospace" font-size="13" fill="#bbbbbb">University with NPTEL certifications in Databases, Java Programming, and Computer</text>
+  <text x="50" y="296" font-family="'Courier New', monospace" font-size="13" fill="#bbbbbb">Networks (IIT Kharagpur).</text>
+
+  <text x="50" y="326" font-family="'Courier New', monospace" font-size="13" fill="#bbbbbb">Freelance track record: built and shipped mkrcollege.com — a live 12-page platform</text>
+  <text x="50" y="346" font-family="'Courier New', monospace" font-size="13" fill="#bbbbbb">serving 300+ monthly visitors. Comfortable across Java backends, React frontends,</text>
+  <text x="50" y="366" font-family="'Courier New', monospace" font-size="13" fill="#bbbbbb">ML pipelines, and everything in between.</text>
+
+  <rect x="50" y="390" width="760" height="1" fill="#111111"/>
+
+  <!-- ══════════════════════════════════════════
+       TECHNICAL SKILLS
+  ══════════════════════════════════════════ -->
+
+  <text x="50" y="420"
+    font-family="'Courier New', monospace"
+    font-size="10" fill="#444444" letter-spacing="5">TECHNICAL SKILLS</text>
+  <rect x="50" y="430" width="760" height="1" fill="#111111"/>
+
+  <!-- Row labels (left col) + values (right col) -->
+  <text x="50"  y="458" font-family="'Courier New', monospace" font-size="11" fill="#555555" letter-spacing="2">LANGUAGES </text>
+  <text x="210" y="458" font-family="'Courier New', monospace" font-size="13" fill="#ffffff">Java  ·  Python  ·  JavaScript  ·  SQL</text>
+
+  <rect x="50" y="470" width="760" height="1" fill="#0d0d0d"/>
+
+  <text x="50"  y="490" font-family="'Courier New', monospace" font-size="11" fill="#555555" letter-spacing="2">FRONTEND  </text>
+  <text x="210" y="490" font-family="'Courier New', monospace" font-size="13" fill="#ffffff">React.js  ·  HTML5  ·  CSS3  ·  Tailwind CSS</text>
+
+  <rect x="50" y="502" width="760" height="1" fill="#0d0d0d"/>
+
+  <text x="50"  y="522" font-family="'Courier New', monospace" font-size="11" fill="#555555" letter-spacing="2">BACKEND   </text>
+  <text x="210" y="522" font-family="'Courier New', monospace" font-size="13" fill="#ffffff">Node.js  ·  Express.js  ·  FastAPI  ·  Spring Boot</text>
+
+  <rect x="50" y="534" width="760" height="1" fill="#0d0d0d"/>
+
+  <text x="50"  y="554" font-family="'Courier New', monospace" font-size="11" fill="#555555" letter-spacing="2">DATABASES </text>
+  <text x="210" y="554" font-family="'Courier New', monospace" font-size="13" fill="#ffffff">MongoDB  ·  MySQL  ·  Supabase  ·  REST APIs</text>
+
+  <rect x="50" y="566" width="760" height="1" fill="#0d0d0d"/>
+
+  <text x="50"  y="586" font-family="'Courier New', monospace" font-size="11" fill="#555555" letter-spacing="2">ML + DATA </text>
+  <text x="210" y="586" font-family="'Courier New', monospace" font-size="13" fill="#ffffff">Pandas  ·  NumPy  ·  NLP  ·  Scikit-learn</text>
+
+  <rect x="50" y="598" width="760" height="1" fill="#0d0d0d"/>
+
+  <text x="50"  y="618" font-family="'Courier New', monospace" font-size="11" fill="#555555" letter-spacing="2">TOOLING   </text>
+  <text x="210" y="618" font-family="'Courier New', monospace" font-size="13" fill="#ffffff">Git  ·  Postman  ·  Vercel  ·  Linux</text>
+
+  <rect x="50" y="638" width="760" height="1" fill="#111111"/>
+
+  <!-- ══════════════════════════════════════════
+       SELECTED PROJECTS
+  ══════════════════════════════════════════ -->
+
+  <text x="50" y="668"
+    font-family="'Courier New', monospace"
+    font-size="10" fill="#444444" letter-spacing="5">SELECTED PROJECTS</text>
+  <rect x="50" y="678" width="760" height="1" fill="#111111"/>
+
+  <!-- ── Project 1 ── -->
+  <text x="50" y="704" font-family="'Courier New', monospace" font-size="14" font-weight="700" fill="#ffffff">ERP System — Campus Resource Management</text>
+  <text x="50" y="722" font-family="'Courier New', monospace" font-size="12" fill="#666666">Engineered automated workflows handling data across 200+ students. Built on Node.js,</text>
+  <text x="50" y="738" font-family="'Courier New', monospace" font-size="12" fill="#666666">Express, and MongoDB with role-based access and bulk data operations.</text>
+  <rect x="50" y="752" width="760" height="1" fill="#0d0d0d"/>
+
+  <!-- ── Project 2 ── -->
+  <text x="50" y="776" font-family="'Courier New', monospace" font-size="14" font-weight="700" fill="#ffffff">M.K.R. College Platform  →  mkrcollege.com</text>
+  <text x="50" y="794" font-family="'Courier New', monospace" font-size="12" fill="#666666">Production-grade 12-page website in React.js + Tailwind CSS. Currently serving</text>
+  <text x="50" y="810" font-family="'Courier New', monospace" font-size="12" fill="#666666">300+ monthly visitors.</text>
+  <rect x="50" y="824" width="760" height="1" fill="#0d0d0d"/>
+
+  <!-- ── Project 3 ── -->
+  <text x="50" y="848" font-family="'Courier New', monospace" font-size="14" font-weight="700" fill="#ffffff">AlphaVoid — Strategic Traffic Solution</text>
+  <text x="50" y="866" font-family="'Courier New', monospace" font-size="12" fill="#666666">Route-analysis and traffic flow optimization. Prototyped under competitive hackathon</text>
+  <text x="50" y="882" font-family="'Courier New', monospace" font-size="12" fill="#666666">constraints (PU Code Hackathon 3.0). Python-based engine with geospatial parsing.</text>
+  <rect x="50" y="896" width="760" height="1" fill="#0d0d0d"/>
+
+  <!-- ── Project 4 ── -->
+  <text x="50" y="920" font-family="'Courier New', monospace" font-size="14" font-weight="700" fill="#ffffff">FutureForge AI</text>
+  <text x="50" y="938" font-family="'Courier New', monospace" font-size="12" fill="#666666">AI-powered platform integrating Gemini API for intelligent automation workflows.</text>
+  <text x="50" y="954" font-family="'Courier New', monospace" font-size="12" fill="#666666">Fullstack implementation with real-time response streaming.</text>
+  <rect x="50" y="968" width="760" height="1" fill="#0d0d0d"/>
+
+  <!-- ── Project 5 ── -->
+  <text x="50" y="992" font-family="'Courier New', monospace" font-size="14" font-weight="700" fill="#ffffff">Advanced NLP Chatbot</text>
+  <text x="50" y="1010" font-family="'Courier New', monospace" font-size="12" fill="#666666">Java-built conversational agent with contextual memory, intent classification,</text>
+  <text x="50" y="1026" font-family="'Courier New', monospace" font-size="12" fill="#666666">and multi-turn dialogue management.</text>
+  <rect x="50" y="1040" width="760" height="1" fill="#0d0d0d"/>
+
+  <!-- ── Project 6 ── -->
+  <text x="50" y="1064" font-family="'Courier New', monospace" font-size="14" font-weight="700" fill="#ffffff">Hotel Reservation System</text>
+  <text x="50" y="1082" font-family="'Courier New', monospace" font-size="12" fill="#666666">Full OOP desktop suite in Java Swing. Real-time room search, booking lifecycle</text>
+  <text x="50" y="1098" font-family="'Courier New', monospace" font-size="12" fill="#666666">management, and report generation.</text>
+
+  <rect x="50" y="1118" width="760" height="1" fill="#111111"/>
+
+  <!-- ══════════════════════════════════════════
+       CURRENTLY
+  ══════════════════════════════════════════ -->
+
+  <text x="50" y="1148"
+    font-family="'Courier New', monospace"
+    font-size="10" fill="#444444" letter-spacing="5">CURRENTLY</text>
+  <rect x="50" y="1158" width="760" height="1" fill="#111111"/>
+
+  <text x="50" y="1185" font-family="'Courier New', monospace" font-size="13" fill="#bbbbbb">→  Deepening expertise in distributed systems and backend architecture patterns</text>
+  <text x="50" y="1210" font-family="'Courier New', monospace" font-size="13" fill="#bbbbbb">→  Exploring large language model integration in production applications</text>
+  <text x="50" y="1235" font-family="'Courier New', monospace" font-size="13" fill="#bbbbbb">→  Open to freelance engagements and meaningful collaborations</text>
+
+  <!-- ══════════════════════════════════════════
+       CONTRIBUTION LABEL
+  ══════════════════════════════════════════ -->
+
+  <rect x="50" y="1265" width="760" height="1" fill="#111111"/>
+
+  <text x="50" y="1295"
+    font-family="'Courier New', monospace"
+    font-size="10" fill="#444444" letter-spacing="5">CONTRIBUTION ACTIVITY</text>
+
+  <rect x="50" y="1305" width="760" height="1" fill="#111111"/>
+
+  <!-- ══════════════════════════════════════════
+       FOOTER
+  ══════════════════════════════════════════ -->
+
+  <rect x="50" y="1410" width="760" height="1" fill="#111111"/>
+
+  <text x="430" y="1440"
+    font-family="'Courier New', monospace"
+    font-size="10" fill="#333333" text-anchor="middle" letter-spacing="4">VADODARA, GUJARAT, INDIA  ·  OPEN TO REMOTE</text>
+
+</svg>
