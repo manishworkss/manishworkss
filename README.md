@@ -69,10 +69,10 @@ Full OOP desktop suite in Java Swing. Real-time room search, booking lifecycle m
 - Deepening expertise in **distributed systems** and backend architecture patterns
 - Exploring **large language model** integration in production applications
 - Open to **freelance engagements** and meaningful collaborations
-
+Portfolio: https://manish-kumar-five.vercel.app
 ---
 
 <div align="center">
 <sub>Vadodara, Gujarat, India · Open to Remote</sub>
 </div>
-Portfolio: [https://manish-kumar-five.vercel.app/]
+
