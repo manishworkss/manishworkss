@@ -73,6 +73,6 @@ Full OOP desktop suite in Java Swing. Real-time room search, booking lifecycle m
 ---
 
 <div align="center">
-<sub>Vadodara, Gujarat, India · Open to Remote</sub>
+<sub>Vadodara, Gujarat, India · Open to Remote/onSite </sub>
 </div>
 
