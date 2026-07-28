@@ -2,7 +2,7 @@
 
 # MANISH KUMAR
 
-**Software Developer · Java · Full Stack Web**
+**Software Developer · Java · Backend Developer**
 
 *Building robust backend systems and production-grade web applications*
 
