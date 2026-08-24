@@ -64,7 +64,7 @@ Full OOP desktop suite in Java Swing. Real-time room search, booking lifecycle m
 
 ---
 
-## Currently
+##  Currently
 
 - Deepening expertise in **distributed systems** and backend architecture patterns
 - Exploring **large language model** integration in production applications
