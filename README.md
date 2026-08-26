@@ -2,7 +2,7 @@
 
 # MANISH KUMAR
 
-**Software Developer · Java · Backend Developer**
+**Software Developer · Java · Backend Developer · React Native Developer**
 
 *Building robust backend systems and production-grade web applications*
 
