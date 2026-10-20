@@ -12,6 +12,7 @@
 
 ---
 
+
 Full Stack Engineer with hands-on production experience — from architecting RESTful APIs to deploying client-facing web platforms. Currently pursuing BCA at Parul University with NPTEL certifications in Databases, Java Programming, and Computer Networks (IIT Kharagpur).
 
 Freelance track record: built and shipped [`mkrcollege.com`](https://mkrcollege.com) — a live 12-page platform serving 3k+ monthly visitors. Comfortable across Java backends, React frontends, ML pipelines, and everything in between.
